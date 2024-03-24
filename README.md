@@ -1,0 +1,2 @@
+# testsSRE
+spring test automizations
